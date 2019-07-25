@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/2505425517/2505425517.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 
 
 
 
@@ -14,16 +14,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-### Jekyll Themes
-
-
-
-### Support or Contact
 
