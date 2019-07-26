@@ -10,7 +10,9 @@
 
 ***
 
-我明天回来。( 高铁G6586 ( 16：57 开 || 17：15 到) )
+我明天回来。
+
+( 高铁G6586 ( 16：57 开 || 17：15 到) )
 
 明日戻ってきます。
 
@@ -23,9 +25,9 @@ Je serai de retour demain.
 
 
 
-<!-- ![Alt text]( https://octodex.github.com/images/spidertocat.png "spidertocat") -->
+![Alt text]( https://octodex.github.com/images/spidertocat.png "spidertocat") 
 
 
-<img width = '400' height ='400' src = https://octodex.github.com/images/spidertocat.png></div>
+<!-- <img width = '400' height ='400' src = https://octodex.github.com/images/spidertocat.png></div> -->
 
 
