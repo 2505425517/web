@@ -30,4 +30,4 @@ Je serai de retour demain.
 
 <!-- <img width = '400' height ='400' src = https://octodex.github.com/images/spidertocat.png></div> -->
 
-
+<img src="https://octodex.github.com/images/spidertocat.png" width="50%" height="50%">
