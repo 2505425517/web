@@ -31,3 +31,6 @@ Je serai de retour demain.
 <!-- <img width = '400' height ='400' src = https://octodex.github.com/images/spidertocat.png></div> -->
 
 <!--<img src="https://octodex.github.com/images/spidertocat.png" width="50%" height="50%"> -->
+
+![Alt text](https://stumail-my.sharepoint.cn/:i:/g/personal/18jwliu2_stu_edu_cn/EX2UvAYgV_tArrjqUvMWr9UBFpCJdm1bgsbWdSCFrkWMqg?e=JxX6db "train") 
+<img src="https://stumail-my.sharepoint.cn/:i:/g/personal/18jwliu2_stu_edu_cn/EX2UvAYgV_tArrjqUvMWr9UBFpCJdm1bgsbWdSCFrkWMqg?e=JxX6db" width="50%" height="50%">
